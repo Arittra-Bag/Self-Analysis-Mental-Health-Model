@@ -1,8 +1,10 @@
 # Mental Health Severity Prediction
 
 This project predicts the severity of depression and anxiety using machine learning models trained on mental health data. It employs XGBoost models to assist in mental health diagnostics by providing predictions for depression and anxiety levels.
-
+ 
 ---
+## Links
+[Kaggle](https://www.kaggle.com/code/arittrabag/mental-health-self-analysis) | [HugginFaceSpaces](https://huggingface.co/spaces/arittrabag/Mental-Health-Severity-Prediction)
 
 ## Dataset Preprocessing Steps
 
